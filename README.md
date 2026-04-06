@@ -1,125 +1,178 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=230&section=header&text=Ajay%20Wadhara&fontSize=48&fontColor=e6edf3&fontAlignY=35&desc=Senior%20Backend%20Engineer%20%E2%80%A2%20AWS%20%E2%80%A2%20AI%20Toolsmith&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=Ajay%20Wadhara&fontSize=50&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineer&descSize=20&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=238636&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=15+years+of+Java+%7C+Distributed+Systems+%7C+AWS;Building+AI-powered+developer+tools" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=238636&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Distributed+Systems+%E2%80%A2+AI+Agents+%E2%80%A2+Cloud+Architecture;Building+tools+that+make+developers+faster" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
 [![GitHub followers](https://img.shields.io/github/followers/ajaywadhara?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=238636)](https://github.com/ajaywadhara)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/ajaywadhara)
 [![Location](https://img.shields.io/badge/London-UK-e6edf3?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117)](https://github.com/ajaywadhara)
 
 </div>
 
----
+<br/>
 
-## `> whoami`
+## About Me
 
-```java
-public record Engineer(String name, String role, int yearsOfExperience, List<String> passions) {
-    public static Engineer me() {
-        return new Engineer(
-            "Ajay Wadhara",
-            "Senior Backend Engineer",
-            15,
-            List.of("Java", "Distributed Systems", "AWS", "AI Developer Tools")
-        );
-    }
-}
-```
+- I design and build **distributed systems** that scale, and **AI agents** that ship code.
+- Currently obsessed with the **agentic software development** workflow — where AI doesn't just assist, it drives.
+- I build open-source **developer tools** that close the gap between intent and working software.
 
-I build **resilient backend systems** and **AI-powered developer tools**. After 15 years deep in the Java ecosystem — from monoliths to microservices to serverless — I'm now focused on the intersection of **AI and developer experience**.
-
----
+<br/>
 
 ## Tech Stack
 
 <div align="center">
 
-#### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,react,python&theme=dark" alt="Languages & Frameworks" />
+</a>
 
-#### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Kinesis](https://img.shields.io/badge/Kinesis-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<br/><br/>
 
-#### AI & Tooling
-![Claude](https://img.shields.io/badge/Claude_Code-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,dynamodb,postgres,docker,kubernetes,gradle&theme=dark" alt="Cloud & Infrastructure" />
+</a>
+
+<br/><br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,idea&theme=dark" alt="Tools" />
+</a>
 
 </div>
 
----
+<br/>
 
-## Featured Projects
+## Trophy Case
 
 <div align="center">
 
-<a href="https://github.com/ajaywadhara/java-doctor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaywadhara&repo=java-doctor&theme=github_dark&bg_color=0d1117&border_color=238636&icon_color=238636&title_color=e6edf3&text_color=8b949e" />
-</a>
-<a href="https://github.com/ajaywadhara/awesome-design-md">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaywadhara&repo=awesome-design-md&theme=github_dark&bg_color=0d1117&border_color=238636&icon_color=238636&title_color=e6edf3&text_color=8b949e" />
-</a>
-<a href="https://github.com/ajaywadhara/teach-me-claude">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaywadhara&repo=teach-me-claude&theme=github_dark&bg_color=0d1117&border_color=238636&icon_color=238636&title_color=e6edf3&text_color=8b949e" />
-</a>
-<a href="https://github.com/ajaywadhara/modern-java">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaywadhara&repo=modern-java&theme=github_dark&bg_color=0d1117&border_color=238636&icon_color=238636&title_color=e6edf3&text_color=8b949e" />
-</a>
-<a href="https://github.com/ajaywadhara/kinesis-data-streams">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaywadhara&repo=kinesis-data-streams&theme=github_dark&bg_color=0d1117&border_color=238636&icon_color=238636&title_color=e6edf3&text_color=8b949e" />
-</a>
-<a href="https://github.com/ajaywadhara/agent-skills">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaywadhara&repo=agent-skills&theme=github_dark&bg_color=0d1117&border_color=238636&icon_color=238636&title_color=e6edf3&text_color=8b949e" />
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=ajaywadhara&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
 
 </div>
 
----
+<br/>
+
+## What I'm Building
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">java-doctor</h3>
+<p align="center">
+  <a href="https://github.com/ajaywadhara/java-doctor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaywadhara&repo=java-doctor&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=238636&title_color=e6edf3&text_color=8b949e" width="100%" />
+  </a>
+</p>
+<p align="center"><strong>Code health analyzer</strong> — scans Java codebases for security, performance, and architecture issues. 0-100 score with actionable diagnostics.</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">awesome-design-md</h3>
+<p align="center">
+  <a href="https://github.com/ajaywadhara/awesome-design-md">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaywadhara&repo=awesome-design-md&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=238636&title_color=e6edf3&text_color=8b949e" width="100%" />
+  </a>
+</p>
+<p align="center"><strong>Design systems as markdown</strong> — drop a DESIGN.md into your project and let coding agents build matching UI.</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">teach-me-claude</h3>
+<p align="center">
+  <a href="https://github.com/ajaywadhara/teach-me-claude">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaywadhara&repo=teach-me-claude&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=238636&title_color=e6edf3&text_color=8b949e" width="100%" />
+  </a>
+</p>
+<p align="center"><strong>Visual guide to Claude Code</strong> — from basic concepts to advanced agents, with copy-paste templates.</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">agent-skills</h3>
+<p align="center">
+  <a href="https://github.com/ajaywadhara/agent-skills">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaywadhara&repo=agent-skills&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=238636&title_color=e6edf3&text_color=8b949e" width="100%" />
+  </a>
+</p>
+<p align="center"><strong>Agent skill registry</strong> — curated list of skills for Claude Code and GitHub Copilot.</p>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">modern-java</h3>
+<p align="center">
+  <a href="https://github.com/ajaywadhara/modern-java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaywadhara&repo=modern-java&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=238636&title_color=e6edf3&text_color=8b949e" width="100%" />
+  </a>
+</p>
+<p align="center"><strong>Legacy to modern</strong> — AI skill that transforms old Java code to modern idioms. Version-aware, framework-smart.</p>
+
+</td>
+<td width="50%">
+
+<h3 align="center">shipyard</h3>
+<p align="center">
+  <a href="https://github.com/ajaywadhara/shipyard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaywadhara&repo=shipyard&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=238636&title_color=e6edf3&text_color=8b949e" width="100%" />
+  </a>
+</p>
+<p align="center"><strong>Idea to shipped product</strong> — agentic SDLC for Claude Code. 10 commands from random thought to tested, deployed software.</p>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
 
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajaywadhara&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=238636&icon_color=238636&title_color=e6edf3&text_color=8b949e&hide_border=false&count_private=true&include_all_commits=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaywadhara&layout=compact&theme=github_dark&bg_color=0d1117&border_color=238636&title_color=e6edf3&text_color=8b949e&hide_border=false&langs_count=8" height="180" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaywadhara&theme=github-dark-blue&background=0d1117&border=238636&stroke=238636&ring=238636&fire=FF6B35&currStreakLabel=e6edf3&sideLabels=8b949e&dates=6e7681" />
+<img src="https://github-readme-stats.vercel.app/api?username=ajaywadhara&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=238636&title_color=e6edf3&text_color=8b949e&count_private=true&include_all_commits=true" height="175" />
+&nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaywadhara&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=238636&fire=FF6B35&currStreakLabel=e6edf3&sideLabels=8b949e&dates=6e7681" height="175" />
 
 </div>
 
----
+<br/>
 
 ## Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaywadhara&bg_color=0d1117&color=238636&line=238636&point=e6edf3&area=true&area_color=238636&hide_border=true" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ajaywadhara&bg_color=0d1117&color=238636&line=238636&point=e6edf3&area=true&area_color=238636&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ajaywadhara&bg_color=ffffff&color=238636&line=238636&point=0d1117&area=true&area_color=238636&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajaywadhara&bg_color=0d1117&color=238636&line=238636&point=e6edf3&area=true&area_color=238636&hide_border=true" width="100%" />
+</picture>
+
+<br/>
+
+<!-- SNAKE ANIMATION — requires GitHub Action to generate, see .github/workflows/snake.yml -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ajaywadhara/ajaywadhara/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ajaywadhara&style=for-the-badge&color=238636&labelColor=0d1117&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-*"The best code is the code you don't have to write. The second best is code that writes itself."*
+<img src="https://komarev.com/ghpvc/?username=ajaywadhara&style=flat-square&color=238636&labelColor=0d1117" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=120&section=footer" width="100%" />
 
