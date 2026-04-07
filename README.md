@@ -1,16 +1,18 @@
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=Ajay%20Wadhara&fontSize=50&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineer&descSize=20&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
-
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=238636&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Distributed+Systems+%E2%80%A2+AI+Agents+%E2%80%A2+Cloud+Architecture;Building+tools+that+make+developers+faster" alt="Typing SVG" /></a>
+<!-- CUSTOM ANIMATED HEADER -->
+<img src="./header.svg" width="100%" alt="Ajay Wadhara — Software Engineer" />
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/ajaywadhara?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=238636)](https://github.com/ajaywadhara)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/ajaywadhara)
-[![Location](https://img.shields.io/badge/London-UK-e6edf3?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117)](https://github.com/ajaywadhara)
+<!-- TYPING SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=238636&center=true&vCenter=true&repeat=true&width=600&height=35&lines=%24+building+systems+that+scale+%E2%86%92;%24+shipping+ai+agents+that+write+code+%E2%86%92;%24+open-sourcing+developer+tools+%E2%86%92" alt="Typing SVG" /></a>
+
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/ajaywadhara?style=flat-square&logo=github&logoColor=white&labelColor=0d1117&color=238636)](https://github.com/ajaywadhara)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ajaywadhara-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/ajaywadhara)&nbsp;&nbsp;
+[![Location](https://img.shields.io/badge/-London,%20UK-e6edf3?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d1117)](https://github.com/ajaywadhara)
 
 </div>
 
@@ -137,6 +139,13 @@ AI skill that transforms legacy Java code to modern idioms. Version-aware, frame
 
 <img src="https://komarev.com/ghpvc/?username=ajaywadhara&style=flat-square&color=238636&labelColor=0d1117" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=120&section=footer" width="100%" />
+<br/><br/>
+
+```
+ ╔══════════════════════════════════════════════════════════╗
+ ║  "Any sufficiently advanced agent is                    ║
+ ║   indistinguishable from a teammate."                   ║
+ ╚══════════════════════════════════════════════════════════╝
+```
 
 </div>
