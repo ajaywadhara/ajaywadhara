@@ -48,94 +48,52 @@
 
 <br/>
 
-## Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ajaywadhara&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-
-</div>
-
-<br/>
-
 ## What I'm Building
 
-<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td>
 
-<h3 align="center">java-doctor</h3>
-<p align="center">
-  <a href="https://github.com/ajaywadhara/java-doctor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaywadhara&repo=java-doctor&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=238636&title_color=e6edf3&text_color=8b949e" width="100%" />
-  </a>
-</p>
-<p align="center"><strong>Code health analyzer</strong> — scans Java codebases for security, performance, and architecture issues. 0-100 score with actionable diagnostics.</p>
+### [`java-doctor`](https://github.com/ajaywadhara/java-doctor) &nbsp; ![Stars](https://img.shields.io/github/stars/ajaywadhara/java-doctor?style=flat-square&color=238636&labelColor=0d1117) ![Forks](https://img.shields.io/github/forks/ajaywadhara/java-doctor?style=flat-square&color=8b949e&labelColor=0d1117)
+Code health analyzer — scans codebases for security, performance, and architecture issues. Outputs a 0-100 score with actionable diagnostics.
 
 </td>
-<td width="50%">
+<td>
 
-<h3 align="center">awesome-design-md</h3>
-<p align="center">
-  <a href="https://github.com/ajaywadhara/awesome-design-md">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaywadhara&repo=awesome-design-md&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=238636&title_color=e6edf3&text_color=8b949e" width="100%" />
-  </a>
-</p>
-<p align="center"><strong>Design systems as markdown</strong> — drop a DESIGN.md into your project and let coding agents build matching UI.</p>
+### [`awesome-design-md`](https://github.com/ajaywadhara/awesome-design-md)
+Design systems as markdown — drop a `DESIGN.md` into your project and let coding agents build matching UI automatically.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td>
 
-<h3 align="center">teach-me-claude</h3>
-<p align="center">
-  <a href="https://github.com/ajaywadhara/teach-me-claude">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaywadhara&repo=teach-me-claude&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=238636&title_color=e6edf3&text_color=8b949e" width="100%" />
-  </a>
-</p>
-<p align="center"><strong>Visual guide to Claude Code</strong> — from basic concepts to advanced agents, with copy-paste templates.</p>
+### [`teach-me-claude`](https://github.com/ajaywadhara/teach-me-claude)
+Visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 
 </td>
-<td width="50%">
+<td>
 
-<h3 align="center">agent-skills</h3>
-<p align="center">
-  <a href="https://github.com/ajaywadhara/agent-skills">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaywadhara&repo=agent-skills&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=238636&title_color=e6edf3&text_color=8b949e" width="100%" />
-  </a>
-</p>
-<p align="center"><strong>Agent skill registry</strong> — curated list of skills for Claude Code and GitHub Copilot.</p>
+### [`agent-skills`](https://github.com/ajaywadhara/agent-skills) &nbsp; ![Stars](https://img.shields.io/github/stars/ajaywadhara/agent-skills?style=flat-square&color=238636&labelColor=0d1117)
+Curated registry of AI agent skills for Claude Code and GitHub Copilot.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td>
 
-<h3 align="center">modern-java</h3>
-<p align="center">
-  <a href="https://github.com/ajaywadhara/modern-java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaywadhara&repo=modern-java&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=238636&title_color=e6edf3&text_color=8b949e" width="100%" />
-  </a>
-</p>
-<p align="center"><strong>Legacy to modern</strong> — AI skill that transforms old Java code to modern idioms. Version-aware, framework-smart.</p>
+### [`shipyard`](https://github.com/ajaywadhara/shipyard)
+Idea to shipped product — agentic SDLC for Claude Code. 10 commands from random thought to tested, deployed software.
 
 </td>
-<td width="50%">
+<td>
 
-<h3 align="center">shipyard</h3>
-<p align="center">
-  <a href="https://github.com/ajaywadhara/shipyard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajaywadhara&repo=shipyard&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=238636&title_color=e6edf3&text_color=8b949e" width="100%" />
-  </a>
-</p>
-<p align="center"><strong>Idea to shipped product</strong> — agentic SDLC for Claude Code. 10 commands from random thought to tested, deployed software.</p>
+### [`modern-java`](https://github.com/ajaywadhara/modern-java)
+AI skill that transforms legacy Java code to modern idioms. Version-aware, framework-smart, zero config.
 
 </td>
 </tr>
 </table>
-</div>
 
 <br/>
 
@@ -143,9 +101,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajaywadhara&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=238636&title_color=e6edf3&text_color=8b949e&count_private=true&include_all_commits=true" height="175" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaywadhara&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=238636&fire=FF6B35&currStreakLabel=e6edf3&sideLabels=8b949e&dates=6e7681" height="175" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ajaywadhara&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=238636&fire=FF6B35&currStreakLabel=e6edf3&sideLabels=8b949e&dates=6e7681" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaywadhara&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=238636&fire=FF6B35&currStreakLabel=e6edf3&sideLabels=8b949e&dates=6e7681" height="200" />
+</picture>
 
 </div>
 
@@ -161,9 +120,13 @@
 
 <br/>
 
-<!-- SNAKE ANIMATION — requires GitHub Action to generate, see .github/workflows/snake.yml -->
+<!-- SNAKE ANIMATION — generated daily by GitHub Action -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ajaywadhara/ajaywadhara/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajaywadhara/ajaywadhara/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajaywadhara/ajaywadhara/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ajaywadhara/ajaywadhara/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
+  </picture>
 </div>
 
 <br/>
